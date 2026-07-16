@@ -166,10 +166,6 @@ http://10.20.80.22/streams/startjalsha.m3u8
 
 # Zee Bangla Sonar
 #EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
-
-# Zee Bangla Sonar
-#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png",Zee Bangla Sonar
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 
 # Enterr10 Bangla
@@ -220,13 +216,13 @@ http://103.175.73.12:8080/live/13/13_0.m3u8
 
 ########## HINDI MOVIES ##########
 
-# SONY MAX
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",SONY MAX
+# SONY MAX UK
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",SONY MAX UK
 http://a1.media1.london:8080/live/Keith2025/Keith2025/241528.ts
 
 # ZEE CINEMA
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png",ZEE CINEMA
-http://lordstreams.live/live/mszala@comcast.net/0323910031/303471.ts
+
 
 # Zee Anmol TV
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Zee Anmol TV
@@ -244,10 +240,6 @@ http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/960px-Zee_Action_2025.svg.png?_=20250608133249",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
-# Zee Anmol Cinema
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Zee Anmol Cinema
-http://103.175.73.12:8080/live/271/271_0.m3u8
-
 # Colors Cineplex HD
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",Colors Cineplex HD
 http://66.102.126.10:8000/play/a076/index.m3u8
@@ -255,10 +247,6 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 # Sheemaroo Bollywood
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-# Zee Action
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png",Zee Action
-http://103.175.73.12:8080/live/270/master.m3u8
 
 # Goldmines
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Goldmines_logo.png",Goldmines
