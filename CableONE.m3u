@@ -198,6 +198,14 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/250px-Zee_TV_2025.svg.png",ZEE TV
 https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 
+# Sony TV • US
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",Sony TV • US
+http://englands.store/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1416786.ts
+
+# Sony Sab  • UK
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png", Sony Sab  • UK
+http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/40586.ts
+
 # & TV
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",& TV
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
@@ -407,7 +415,7 @@ http://202.70.146.135:8000/play/a09r/index.m3u8
 http://116.90.120.157:8000/play/a0i3/index.m3u8
 
 # Sony YAY
-#EXTINF:-1 group-title="Kids" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666687413-84692936.png",Sony YAY
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony YAY
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/544127.ts
 
 # CARTOON NETWORK
@@ -445,7 +453,7 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
 # Sony Pix HD
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/pXsZEsR.png",Sony Pix HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony Pix HD
 http://103.253.18.58:8000/play/a01v
 
 # Colors Infinity HD
@@ -483,7 +491,7 @@ http://10.20.80.22/streams/moviesnow.m3u8
 http://202.70.146.135:8000/play/a05z/index.m3u8
 
 # Sony BBC Earth HD
-#EXTINF:-1 group-title="INFORMATION" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1666687186-46104282.png",Sony BBC Earth HD
+#EXTINF:-1 group-title="INFORMATION" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC Earth HD
 http://202.70.146.135:8000/play/a067/index.m3u8
 
 # Animal Planet
