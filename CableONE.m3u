@@ -559,6 +559,14 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",Peace TV Bangla
 http://10.20.80.22/streams/peacetv.m3u8
 
+# Peace TV Urdu
+#EXTINF:-1 group-title="Religious" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmreg7QGFJbl5R_v5W8EzH0gIwDvtWkwTbQaYBvmV9gk6K-8Td-A1I9to&s=10",Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+
+# Peace TV English
+#EXTINF:-1 group-title="Religious" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvG1OGrMM0iSlfbuPyDfNOQVwUbCUJaU3Q_IBJHURAQ&s=10",Peace Tv English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
 # Madani Channel
 #EXTINF:-1 group-title="Religious" tvg-logo="https://madanichannelbangla.tv/assets/img/logo/b-logo.png",Madani Channel
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
