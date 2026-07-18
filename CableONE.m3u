@@ -273,7 +273,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 # Goldmines Bollywood
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/6mNQ9mM.png",Goldmines Bollywood
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/download/6mNQ9mM/",Goldmines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
 
 # Goldmines Movies
