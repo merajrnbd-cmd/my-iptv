@@ -560,11 +560,11 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 http://10.20.80.22/streams/peacetv.m3u8
 
 # Peace TV Urdu
-#EXTINF:-1 group-title="Religious" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmreg7QGFJbl5R_v5W8EzH0gIwDvtWkwTbQaYBvmV9gk6K-8Td-A1I9to&s=10",Peace TV Urdu
+#EXTINF:-1 group-title="Religious" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/J/kE/169575/logo_50.png",Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 # Peace TV English
-#EXTINF:-1 group-title="Religious" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvG1OGrMM0iSlfbuPyDfNOQVwUbCUJaU3Q_IBJHURAQ&s=10",Peace Tv English
+#EXTINF:-1 group-title="Religious" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png",Peace Tv English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 # Madani Channel
