@@ -59,7 +59,7 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 # ATN Bangla
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ATN_Bangla_Logo_without_slogan.svg/250px-ATN_Bangla_Logo_without_slogan.svg.png",ATN Bangla
-http://10.20.80.22/streams/atnbangla.m3u8
+https://tvsen5.aynascope.net/atnbangla/index.m3u8
 
 # NTV 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/250px-NTV_%28Bangladesh%29_logo.svg.png",NTV
