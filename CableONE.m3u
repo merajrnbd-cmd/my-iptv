@@ -82,7 +82,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 # Rtv HD
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/250px-Rtv_bangladesh.svg.png",Channel i
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/250px-Rtv_bangladesh.svg.png",Rtv HD
 https://tvsen5.aynascope.net/RtvHD/index.m3u8
 
 # Desh Tv
@@ -123,7 +123,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
 # Channel S
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Channel_S_Official_LOGO.png",Mohona Tv
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Channel_S_Official_LOGO.png",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 
 # Ananda TV
@@ -164,10 +164,6 @@ http://10.20.80.22/streams/gflixdigital.m3u8
 
 ########## KOLKATA BANGLA ##########
 
-# DD Bangla
-#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG",DD Bangla
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-
 # Star Jalsha
 #EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png",Star Jalsha
 http://10.20.80.22/streams/startjalsha.m3u8
@@ -180,6 +176,10 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 #EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://cdn.smartads.in/images/product/television/Enterr10-Bangla.png",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
+# Colors Bangla
+#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png",Colors Bangla
+https://tvsen5.aynascope.net/u3LkNQ7UHhFX/index.m3u8
+
 # Colors Bangla Cinema
 #EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png",Colors Bangla Cinema
 http://66.102.126.10:8000/play/a015/index.m3u8
@@ -188,31 +188,35 @@ http://66.102.126.10:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Khushboo-Bangla_black.png",Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
+# DD Bangla
+#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+
 # Tara TV
 #EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/54471bdcba3d403b2efe3dd7950cfa90.png",Tara TV
 https://legitpro.co.in/taratv/taratv/index.m3u8
 
 ########## HINDI ENTERTAINMENT ##########
 
-# DDNational
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",DDNational
-https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
+# Star Plus
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus
+http://103.253.18.58:8000/play/a00l
 
-# Dangal
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/DangalTVLogo.png/250px-DangalTVLogo.png",Dangal
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+# Sony TV
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",Sony TV
+http://englands.store/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1416786.ts
+
+# Sony SAB
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png",Sony SAB
+http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/40586.ts
 
 # ZEE TV
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/250px-Zee_TV_2025.svg.png",ZEE TV
 https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 
-# Sony TV • US
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",Sony TV • US
-http://englands.store/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1416786.ts
-
-# Sony Sab  • UK
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png", Sony Sab  • UK
-http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/40586.ts
+# Zee Anmol TV
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
 
 # & TV
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",& TV
@@ -222,13 +226,18 @@ https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png",ColorsHD
 http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/40443.ts
 
-# Star Plus
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus
-http://103.253.18.58:8000/play/a00l
+# Dangal
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/DangalTVLogo.png/250px-DangalTVLogo.png",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 # Big Magic
 #EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Big_Magic_2025_Logo.png/250px-Big_Magic_2025_Logo.png",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
+
+# DDNational
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",DDNational
+https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
+
 
 ########## HINDI MOVIES ##########
 
@@ -239,17 +248,12 @@ http://a1.media1.london:8080/live/Keith2025/Keith2025/241528.ts
 # ZEE CINEMA
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png",ZEE CINEMA
 
-
-# Zee Anmol TV
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Zee Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
-
 # ZEE ANMOL CINEMA
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",ZEE ANMOL CINEMA
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png",ZEE ANMOL CINEMA
 http://103.175.73.12:8080/live/271/271_0.m3u8
 
 # ZEE ANMOL CINEMA 2
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",ZEE ANMOL CINEMA 2
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",ZEE ANMOL CINEMA 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
 
 # Zee Action
@@ -281,14 +285,14 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 # B4U Kadak
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg",B4U Kadak
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
 
 ########## MUSIC ##########
 
 # 9xm
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.9xm.in/images/logo.png",9xm
-https://epiconvh.akamaized.net/live/9XM/master.m3u8
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 # 9x TASHAN
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png",9x TASHAN
