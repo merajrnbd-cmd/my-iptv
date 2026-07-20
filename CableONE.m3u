@@ -189,7 +189,7 @@ http://66.102.126.10:8000/play/a015/index.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 # DD Bangla
-#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG",DD Bangla
+#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
 # Tara TV
@@ -235,26 +235,26 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 http://103.175.73.12:8080/live/13/13_0.m3u8
 
 # DDNational
-#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png",DDNational
+#EXTINF:-1 group-title="HINDI ENTERTAINMENT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",DDNational
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 
 
 ########## HINDI MOVIES ##########
 
 # Star Gold HD
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://images.seeklogo.com/logo-png/31/2/star-gold-logo-png_seeklogo-310758.png",Star Gold HD
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LOGO_HD/image.png",Star Gold HD
 http://103.253.18.58:8000/play/a00q
 
 # Star Gold 2
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg",Star Gold 2
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/G0ZfzZr.png",Star Gold 2
 http://103.253.18.58:8000/play/a00r
 
 # Star Gold Romance 
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest/scale-to-width-down/250?cb=20211216002621",Star Gold Romance 
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.imgur.com/gSWv9U3.png",Star Gold Romance 
 http://103.253.18.58:8000/play/a017
 
 # Star Gold Select HD
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639",Star Gold Select HD
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png",Star Gold Select HD
 http://103.253.18.58:8000/play/a02u
 
 # SONY MAX UK
