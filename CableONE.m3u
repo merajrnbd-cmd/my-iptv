@@ -75,7 +75,7 @@ http://10.20.80.22/streams/boishakhi.m3u8
 
 # Ekushey Television
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/250px-Ekushey_Television_Logo.svg.png",Ekushey Television
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://10.20.80.22/streams/ekusheyhd.m3u8
 
 # Channel i
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.channelionline.com/wp-content/uploads/2024/04/channel-i-logo-1.png",Channel i
@@ -240,6 +240,22 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 
 
 ########## HINDI MOVIES ##########
+
+# Star Gold HD
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://images.seeklogo.com/logo-png/31/2/star-gold-logo-png_seeklogo-310758.png",Star Gold HD
+http://103.253.18.58:8000/play/a00q
+
+# Star Gold 2
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg",Star Gold 2
+http://103.253.18.58:8000/play/a00r
+
+# Star Gold Romance 
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest/scale-to-width-down/250?cb=20211216002621",Star Gold Romance 
+http://103.253.18.58:8000/play/a017
+
+# Star Gold Select HD
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639",Star Gold Select HD
+http://103.253.18.58:8000/play/a02u
 
 # SONY MAX UK
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",SONY MAX UK
