@@ -408,8 +408,12 @@ http://10.20.80.22/streams/asports.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png",PTV Sports
 http://10.20.80.22/streams/ptv.m3u8
 
-# Unite8 Sports
-#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/2059523885146796032/V_PWWq0r_400x400.jpg", Unite8 Sports
+# Unite8 Sports 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",Unite8 Sports 1
+http://59.103.38.46:8000/play/a125/index.m3u8
+
+# Unite8 Sports 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp",Unite8 Sports 2
 http://202.70.146.135:8000/play/a126/index.m3u8
 
 # Star Sports 1 HD
@@ -424,16 +428,16 @@ http://202.70.146.135:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png",Star Select 2 HD
 http://202.70.146.135:8000/play/a03e/index.m3u8
 
-# Sony Ten 2 HD
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1762841840-73112647.png",Sony Ten 2 HD
+# Sony Sports Ten 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",Sony Sports Ten 2 HD
 http://202.70.146.135:8000/play/a06n/index.m3u8
 
-# SONY TEN 3
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png", SONY TEN 3
+# Sony Sports Ten 3 Hindi HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png",Sony Sports Ten 3 Hindi HD
 http://fastshare1.com/live/25711345/late8airline/435.ts
 
-# Sony Ten 5 HD
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1735720129-50187708.png", Sony Ten 5 HD
+# Sony Sports Ten 5 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",Sony Sports Ten 5 HD
 http://202.70.146.135:8000/play/a09r/index.m3u8
 
 ########## KIDS ##########
@@ -441,8 +445,6 @@ http://202.70.146.135:8000/play/a09r/index.m3u8
 # Nick HD+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png",Nick HD+
 http://116.90.120.157:8000/play/a0i3/index.m3u8
-
-
 
 # Sony YAY
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony YAY
@@ -483,7 +485,7 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
 # Sony Pix HD
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony Pix HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",Sony Pix HD
 http://103.253.18.58:8000/play/a01v
 
 # Colors Infinity HD
@@ -499,11 +501,11 @@ http://66.102.126.10:8000/play/a021/index.m3u8
 http://66.102.126.10:8000/play/a020/index.m3u8
 
 # AXN
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/960px-AXN_Black_logo_%282015%29.svg.png",AXN
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
 http://cdn.haititivi.com/AXN/index.m3u8
 
 # AXN Movies HD
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.svg/960px-AXN_Movies_logo.svg.png",AXN Movies HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/tJQckal.png",AXN Movies HD
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
 # HBO
@@ -585,7 +587,7 @@ http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Saudi_Quran_TV_2020.png",KSA Qur’an TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
-# KSA Sunnah Tv
+# KSA Sunnah TV
 #EXTINF:-1 group-title="Religious" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png",KSA Sunnah Tv
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 
